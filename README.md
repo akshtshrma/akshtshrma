@@ -1,9 +1,9 @@
 # Hi, I'm [Akshat Sharma] 👋
 
 ### 🎓 About Me
-- 🌟 **3rd-year B.Tech Student** | 21 years old
+- 🌟 **3rd-year B.Tech Student** 
 - 💻 **Android Developer** specializing in **Kotlin** and **XML**
-- 📊 Currently diving into **Data Structures** and **Android Development**
+- 📊 Currently diving into **Data Structures**, **Android Development** and **Machine Learning**
 - 🎯 Aspiring to contribute to impactful projects
 
 ---
