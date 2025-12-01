@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Let's Connect
-- 📧 Email: akshatvsharma2003@gmail.com
+- 📧 Email: akshatvsharma.work@gmail.com
 - 🐦 Twitter: [@akshtshrma](#)
 - 💼 LinkedIn: [http://www.linkedin.com/in/akshat-sharma-a20b6b250](#)
 
